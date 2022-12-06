@@ -1,1 +1,1 @@
-add anew repository
+~/*.emacs
